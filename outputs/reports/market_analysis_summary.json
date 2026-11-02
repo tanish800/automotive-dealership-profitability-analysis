@@ -1,0 +1,472 @@
+{
+    "kpis": {
+        "total_listings": 6926,
+        "avg_selling_price": 517270.6784579844,
+        "median_selling_price": 400000.0,
+        "min_selling_price": 29999.0,
+        "max_selling_price": 10000000.0,
+        "std_selling_price": 519766.9859853489,
+        "avg_km_driven": 73995.67643661566,
+        "median_km_driven": 70000.0,
+        "avg_vehicle_age": 12.579699682356338,
+        "median_vehicle_age": 12.0,
+        "total_brands": 32,
+        "total_models": 629,
+        "total_gross_listing_value": 3582616719.0
+    },
+    "top_brands": [
+        {
+            "Vehicle_Brand": "Maruti",
+            "listing_count": 2165,
+            "avg_price": 387821.6249422633,
+            "median_price": 350000.0,
+            "min_price": 29999,
+            "max_price": 1200000,
+            "std_price": 229264.62970101266,
+            "avg_km": 66837.6637413395,
+            "avg_age": 12.961662817551963,
+            "total_listing_value": 839633818,
+            "market_share_pct": 31.259023967658102,
+            "value_share_pct": 23.43632835594993
+        },
+        {
+            "Vehicle_Brand": "Hyundai",
+            "listing_count": 1267,
+            "avg_price": 451051.6432517758,
+            "median_price": 412000.0,
+            "min_price": 30000,
+            "max_price": 1950000,
+            "std_price": 264902.18572922755,
+            "avg_km": 66465.3591160221,
+            "avg_age": 12.359116022099448,
+            "total_listing_value": 571482432,
+            "market_share_pct": 18.293387236500145,
+            "value_share_pct": 15.951537013971045
+        },
+        {
+            "Vehicle_Brand": "Mahindra",
+            "listing_count": 723,
+            "avg_price": 616549.0636237898,
+            "median_price": 550000.0,
+            "min_price": 120000,
+            "max_price": 1800000,
+            "std_price": 314576.79484789894,
+            "avg_km": 91604.57123098202,
+            "avg_age": 12.29045643153527,
+            "total_listing_value": 445764973,
+            "market_share_pct": 10.43892578688998,
+            "value_share_pct": 12.442441041374485
+        },
+        {
+            "Vehicle_Brand": "Tata",
+            "listing_count": 647,
+            "avg_price": 344393.97836166923,
+            "median_price": 252999.0,
+            "min_price": 40000,
+            "max_price": 1700000,
+            "std_price": 283004.663134195,
+            "avg_km": 80785.70170015456,
+            "avg_age": 13.01081916537867,
+            "total_listing_value": 222822904,
+            "market_share_pct": 9.34161131966503,
+            "value_share_pct": 6.2195574206496635
+        },
+        {
+            "Vehicle_Brand": "Honda",
+            "listing_count": 362,
+            "avg_price": 573563.908839779,
+            "median_price": 560000.0,
+            "min_price": 50000,
+            "max_price": 2125000,
+            "std_price": 300028.9728806582,
+            "avg_km": 67321.53038674033,
+            "avg_age": 12.243093922651934,
+            "total_listing_value": 207630135,
+            "market_share_pct": 5.22668206757147,
+            "value_share_pct": 5.795488361868497
+        },
+        {
+            "Vehicle_Brand": "Ford",
+            "listing_count": 361,
+            "avg_price": 504376.6925207756,
+            "median_price": 450000.0,
+            "min_price": 55000,
+            "max_price": 3250000,
+            "std_price": 375227.52885232796,
+            "avg_km": 75009.69529085873,
+            "avg_age": 12.155124653739612,
+            "total_listing_value": 182079986,
+            "market_share_pct": 5.21224371931851,
+            "value_share_pct": 5.082318324323099
+        },
+        {
+            "Vehicle_Brand": "Toyota",
+            "listing_count": 357,
+            "avg_price": 889490.1344537815,
+            "median_price": 700000.0,
+            "min_price": 100000,
+            "max_price": 3500000,
+            "std_price": 641081.1985707324,
+            "avg_km": 116095.21848739496,
+            "avg_age": 13.212885154061624,
+            "total_listing_value": 317547978,
+            "market_share_pct": 5.154490326306671,
+            "value_share_pct": 8.863576623084475
+        },
+        {
+            "Vehicle_Brand": "Chevrolet",
+            "listing_count": 216,
+            "avg_price": 268349.6296296296,
+            "median_price": 220000.0,
+            "min_price": 45000,
+            "max_price": 1295000,
+            "std_price": 172210.42838674405,
+            "avg_km": 80118.22222222222,
+            "avg_age": 13.930555555555555,
+            "total_listing_value": 57963520,
+            "market_share_pct": 3.11868322263933,
+            "value_share_pct": 1.61791016305476
+        },
+        {
+            "Vehicle_Brand": "Renault",
+            "listing_count": 206,
+            "avg_price": 449694.1359223301,
+            "median_price": 395000.0,
+            "min_price": 200000,
+            "max_price": 1265000,
+            "std_price": 192412.5639390043,
+            "avg_km": 61329.75242718447,
+            "avg_age": 10.25242718446602,
+            "total_listing_value": 92636992,
+            "market_share_pct": 2.9742997401097315,
+            "value_share_pct": 2.58573549072973
+        },
+        {
+            "Vehicle_Brand": "Volkswagen",
+            "listing_count": 174,
+            "avg_price": 489574.6954022989,
+            "median_price": 422500.0,
+            "min_price": 210000,
+            "max_price": 2150000,
+            "std_price": 240774.66051391038,
+            "avg_km": 73001.57471264368,
+            "avg_age": 12.022988505747126,
+            "total_listing_value": 85185997,
+            "market_share_pct": 2.512272596015016,
+            "value_share_pct": 2.3777591543138223
+        }
+    ],
+    "top_models": [
+        {
+            "Vehicle_Brand": "Maruti",
+            "Vehicle_Model": "Swift Dzire",
+            "listing_count": 347,
+            "avg_price": 504648.3631123919,
+            "median_price": 500000.0,
+            "avg_km": 76628.85878962536,
+            "avg_age": 11.579250720461095,
+            "market_share_pct": 5.010106843777072
+        },
+        {
+            "Vehicle_Brand": "Maruti",
+            "Vehicle_Model": "Swift",
+            "listing_count": 275,
+            "avg_price": 444756.3090909091,
+            "median_price": 450000.0,
+            "avg_km": 70454.59272727273,
+            "avg_age": 12.141818181818183,
+            "market_share_pct": 3.9705457695639623
+        },
+        {
+            "Vehicle_Brand": "Maruti",
+            "Vehicle_Model": "Wagon R",
+            "listing_count": 245,
+            "avg_price": 264870.77959183673,
+            "median_price": 265000.0,
+            "avg_km": 71320.4612244898,
+            "avg_age": 13.951020408163265,
+            "market_share_pct": 3.537395321975166
+        },
+        {
+            "Vehicle_Brand": "Hyundai",
+            "Vehicle_Model": "Grand i10",
+            "listing_count": 151,
+            "avg_price": 479172.1324503311,
+            "median_price": 470000.0,
+            "avg_km": 43411.41059602649,
+            "avg_age": 9.629139072847682,
+            "market_share_pct": 2.180190586196939
+        },
+        {
+            "Vehicle_Brand": "Toyota",
+            "Vehicle_Model": "Innova 2.5",
+            "listing_count": 147,
+            "avg_price": 735312.8707482993,
+            "median_price": 750000.0,
+            "avg_km": 158528.95238095237,
+            "avg_age": 14.482993197278912,
+            "market_share_pct": 2.1224371931850996
+        },
+        {
+            "Vehicle_Brand": "Maruti",
+            "Vehicle_Model": "Alto 800",
+            "listing_count": 133,
+            "avg_price": 261526.27819548873,
+            "median_price": 267000.0,
+            "avg_km": 39761.112781954886,
+            "avg_age": 10.406015037593985,
+            "market_share_pct": 1.9203003176436615
+        },
+        {
+            "Vehicle_Brand": "Hyundai",
+            "Vehicle_Model": "i20",
+            "listing_count": 132,
+            "avg_price": 461537.82575757575,
+            "median_price": 457999.0,
+            "avg_km": 87982.94696969698,
+            "avg_age": 12.325757575757576,
+            "market_share_pct": 1.9058619693907017
+        },
+        {
+            "Vehicle_Brand": "Hyundai",
+            "Vehicle_Model": "i10",
+            "listing_count": 131,
+            "avg_price": 242671.73282442748,
+            "median_price": 229999.0,
+            "avg_km": 66224.84732824427,
+            "avg_age": 14.854961832061068,
+            "market_share_pct": 1.891423621137742
+        },
+        {
+            "Vehicle_Brand": "Mahindra",
+            "Vehicle_Model": "Bolero 2011-2019",
+            "listing_count": 109,
+            "avg_price": 509981.61467889906,
+            "median_price": 509999.0,
+            "avg_km": 93464.42201834862,
+            "avg_age": 12.009174311926605,
+            "market_share_pct": 1.573779959572625
+        },
+        {
+            "Vehicle_Brand": "Maruti",
+            "Vehicle_Model": "Alto K10",
+            "listing_count": 102,
+            "avg_price": 271637.1960784314,
+            "median_price": 260000.0,
+            "avg_km": 47588.382352941175,
+            "avg_age": 11.480392156862745,
+            "market_share_pct": 1.4727115218019058
+        }
+    ],
+    "fuel_breakdown": [
+        {
+            "Fuel_Category": "Diesel",
+            "listing_count": 3755,
+            "avg_price": 639727.7688415446,
+            "median_price": 520000.0,
+            "avg_km": 88701.71930758988,
+            "avg_mileage": 19.738996719518862,
+            "avg_age": 12.329161118508654,
+            "listing_share_pct": 54.21599768986428
+        },
+        {
+            "Fuel_Category": "Petrol",
+            "listing_count": 3077,
+            "avg_price": 375688.96652583685,
+            "median_price": 310000.0,
+            "avg_km": 55946.71498212545,
+            "avg_mileage": 19.05992600067272,
+            "avg_age": 12.857003574910626,
+            "listing_share_pct": 44.426797574357494
+        },
+        {
+            "Fuel_Category": "Cng",
+            "listing_count": 56,
+            "avg_price": 300499.9464285714,
+            "median_price": 320000.0,
+            "avg_km": 69329.30357142857,
+            "avg_mileage": 23.98730769230769,
+            "avg_age": 11.571428571428571,
+            "listing_share_pct": 0.8085475021657523
+        },
+        {
+            "Fuel_Category": "Lpg",
+            "listing_count": 38,
+            "avg_price": 200421.05263157896,
+            "median_price": 195500.0,
+            "avg_km": 89174.1052631579,
+            "avg_mileage": 18.57714285714286,
+            "avg_age": 16.36842105263158,
+            "listing_share_pct": 0.5486572336124748
+        }
+    ],
+    "transmission_breakdown": [
+        {
+            "Transmission_Category": "Automatic",
+            "listing_count": 584,
+            "avg_price": 1309712.3047945206,
+            "median_price": 850000.0,
+            "avg_km": 51177.875,
+            "avg_age": 10.684931506849315,
+            "listing_share_pct": 8.431995379728559
+        },
+        {
+            "Transmission_Category": "Manual",
+            "listing_count": 6342,
+            "avg_price": 444299.07489750866,
+            "median_price": 385000.0,
+            "avg_km": 76096.8426363923,
+            "avg_age": 12.754178492589089,
+            "listing_share_pct": 91.56800462027144
+        }
+    ],
+    "ownership_breakdown": [
+        {
+            "Ownership_Category": "Test Drive Car",
+            "listing_count": 5,
+            "avg_price": 4403800.0,
+            "median_price": 5923000.0,
+            "avg_km": 14631.4,
+            "avg_age": 7.0,
+            "discount_vs_first_owner_pct": 615.5944941304398,
+            "listing_share_pct": 0.07219174126479931
+        },
+        {
+            "Ownership_Category": "First Owner",
+            "listing_count": 4242,
+            "avg_price": 615404.3995756719,
+            "median_price": 500000.0,
+            "avg_km": 61633.97194719472,
+            "avg_age": 11.052098066949553,
+            "discount_vs_first_owner_pct": 0.0,
+            "listing_share_pct": 61.24747328905573
+        },
+        {
+            "Ownership_Category": "Second Owner",
+            "listing_count": 1974,
+            "avg_price": 385697.1909827761,
+            "median_price": 305000.0,
+            "avg_km": 90764.85866261399,
+            "avg_age": 14.383485309017225,
+            "discount_vs_first_owner_pct": -37.32622138406573,
+            "listing_share_pct": 28.501299451342767
+        },
+        {
+            "Ownership_Category": "Third Owner",
+            "listing_count": 536,
+            "avg_price": 281250.9496268657,
+            "median_price": 222500.0,
+            "avg_km": 100179.96828358209,
+            "avg_age": 16.380597014925375,
+            "discount_vs_first_owner_pct": -54.29818996731396,
+            "listing_share_pct": 7.738954663586485
+        },
+        {
+            "Ownership_Category": "Fourth & Above Owner",
+            "listing_count": 169,
+            "avg_price": 224470.36686390534,
+            "median_price": 170000.0,
+            "avg_km": 107120.08875739644,
+            "avg_age": 17.964497041420117,
+            "discount_vs_first_owner_pct": -63.52473803913652,
+            "listing_share_pct": 2.4400808547502164
+        }
+    ],
+    "seller_breakdown": [
+        {
+            "Seller_Category": "Individual",
+            "listing_count": 6218,
+            "avg_price": 471555.1228690897,
+            "median_price": 390000.0,
+            "avg_km": 76495.22241878418,
+            "avg_age": 12.787069797362497,
+            "listing_share_pct": 89.77764943690441
+        },
+        {
+            "Seller_Category": "Dealer",
+            "listing_count": 681,
+            "avg_price": 926722.4155653451,
+            "median_price": 620000.0,
+            "avg_km": 52666.26725403818,
+            "avg_age": 10.806167400881057,
+            "listing_share_pct": 9.832515160265666
+        },
+        {
+            "Seller_Category": "Trustmark Dealer",
+            "listing_count": 27,
+            "avg_price": 718111.1111111111,
+            "median_price": 650000.0,
+            "avg_km": 36334.59259259259,
+            "avg_age": 9.555555555555555,
+            "listing_share_pct": 0.38983540282991624
+        }
+    ],
+    "price_categories": [
+        {
+            "Price_Category": "Mid-Range (\u20b93L - \u20b96L)",
+            "listing_count": 2637,
+            "avg_price": 427412.1554797118,
+            "median_price": 420000.0,
+            "avg_km": 74343.77208949564,
+            "avg_age": 11.687144482366325,
+            "total_value": 1127085854,
+            "volume_share_pct": 38.073924343055154,
+            "value_share_pct": 31.459850226864305
+        },
+        {
+            "Price_Category": "Upper Mid-Range (\u20b96L - \u20b910L)",
+            "listing_count": 1525,
+            "avg_price": 736438.6668852459,
+            "median_price": 700000.0,
+            "avg_km": 61613.16852459016,
+            "avg_age": 9.739672131147541,
+            "total_value": 1123068967,
+            "volume_share_pct": 22.01848108576379,
+            "value_share_pct": 31.347728632089822
+        },
+        {
+            "Price_Category": "Premium (\u20b910L - \u20b920L)",
+            "listing_count": 396,
+            "avg_price": 1326005.0227272727,
+            "median_price": 1250000.0,
+            "avg_km": 57213.03282828283,
+            "avg_age": 9.714646464646465,
+            "total_value": 525097989,
+            "volume_share_pct": 5.717585908172105,
+            "value_share_pct": 14.656828519087812
+        },
+        {
+            "Price_Category": "Budget (< \u20b93L)",
+            "listing_count": 2248,
+            "avg_price": 181289.5502669039,
+            "median_price": 190000.0,
+            "avg_km": 86902.33229537366,
+            "avg_age": 16.24199288256228,
+            "total_value": 407538909,
+            "volume_share_pct": 32.45740687265376,
+            "value_share_pct": 11.375453780435505
+        },
+        {
+            "Price_Category": "Luxury (> \u20b920L)",
+            "listing_count": 120,
+            "avg_price": 3331875.0,
+            "median_price": 2900000.0,
+            "avg_km": 37305.35,
+            "avg_age": 9.133333333333333,
+            "total_value": 399825000,
+            "volume_share_pct": 1.7326017903551834,
+            "value_share_pct": 11.160138841522556
+        }
+    ],
+    "charts_generated": [
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\brand_distribution.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\selling_price_distribution.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\fuel_and_transmission_distribution.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\brand_pricing_analysis.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\age_depreciation_curve.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\km_vs_price_scatter.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\dealer_vs_individual_comparison.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\ownership_pricing_impact.png",
+        "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\price_category_segmentation.png"
+    ]
+}

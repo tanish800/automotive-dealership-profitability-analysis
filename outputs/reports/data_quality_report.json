@@ -1,0 +1,98 @@
+{
+    "report_generated_at": "2026-11-02T18:06:43.132179",
+    "analysis_year_baseline": 2026,
+    "raw_record_count": 8128,
+    "raw_column_count": 13,
+    "cleaned_record_count": 6926,
+    "cleaned_column_count": 30,
+    "duplicate_records_removed": 1202,
+    "missing_values_raw": {
+        "name": 0,
+        "year": 0,
+        "selling_price": 0,
+        "km_driven": 0,
+        "fuel": 0,
+        "seller_type": 0,
+        "transmission": 0,
+        "owner": 0,
+        "mileage": 221,
+        "engine": 221,
+        "max_power": 215,
+        "torque": 222,
+        "seats": 221
+    },
+    "missing_values_cleaned": {
+        "name": 0,
+        "year": 0,
+        "selling_price": 0,
+        "km_driven": 0,
+        "fuel": 0,
+        "seller_type": 0,
+        "transmission": 0,
+        "owner": 0,
+        "mileage": 208,
+        "engine": 208,
+        "max_power": 205,
+        "torque": 209,
+        "seats": 208,
+        "Vehicle_Brand": 0,
+        "Vehicle_Model": 0,
+        "Mileage_kmpl": 208,
+        "Engine_cc": 208,
+        "Max_Power_bhp": 206,
+        "Seats": 208,
+        "Vehicle_Age": 0,
+        "Vehicle_Age_Group": 0,
+        "Price_Category": 0,
+        "Kilometres_Category": 0,
+        "Mileage_Category": 0,
+        "Ownership_Category": 0,
+        "Fuel_Category": 0,
+        "Transmission_Category": 0,
+        "Seller_Category": 0,
+        "Is_Price_Outlier": 0,
+        "Is_KM_Outlier": 0
+    },
+    "outlier_statistics": {
+        "selling_price": {
+            "lower_bound_inr": -325250.0,
+            "upper_bound_inr": 1208750.0,
+            "outlier_count": 328,
+            "outlier_percentage": 4.74
+        },
+        "km_driven": {
+            "lower_bound_km": -50000.0,
+            "upper_bound_km": 190000.0,
+            "outlier_count": 167,
+            "outlier_percentage": 2.41
+        },
+        "vehicle_age": {
+            "lower_bound_years": 0.0,
+            "upper_bound_years": 24.0,
+            "outlier_count": 77,
+            "outlier_percentage": 1.11
+        }
+    },
+    "brand_count": 32,
+    "model_count": 629,
+    "price_summary_inr": {
+        "min": 29999.0,
+        "mean": 517270.6784579844,
+        "median": 400000.0,
+        "max": 10000000.0,
+        "std": 519766.9859853489
+    },
+    "km_summary": {
+        "min": 1.0,
+        "mean": 73995.67643661566,
+        "median": 70000.0,
+        "max": 2360457.0,
+        "std": 58358.09517534824
+    },
+    "age_summary_years": {
+        "min": 6,
+        "mean": 12.579699682356338,
+        "median": 12.0,
+        "max": 43
+    }
+}

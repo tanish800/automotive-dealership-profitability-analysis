@@ -1,0 +1,4 @@
+Scenario,Current Assets (₹ Cr),Current Liabilities (₹ Cr),Net Working Capital (₹ Cr),Current Ratio,Quick Ratio,Inventory Turnover (x),Inventory Days (DSI),DSO (Days),DPO (Days),Cash Conversion Cycle (Days),Carrying Cost @ 10.5% (₹ Lakhs)
+Base Case (Standard Dealership),4.5,2.8,1.7,1.61,0.62,5.45,66.9,20.3,33.0,54.2,17.85
+Lean Optimized (Fast Velocity),3.2,2.5,0.7,1.28,0.64,9.38,38.9,12.2,42.4,8.7,7.35
+Stressed (High Lot Aging),5.8,3.4,2.4,1.71,0.68,4.29,85.2,35.5,22.4,98.3,25.2

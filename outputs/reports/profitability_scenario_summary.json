@@ -1,0 +1,387 @@
+{
+    "disclaimer": "HYPOTHETICAL FINANCIAL SCENARIO \u2013 NOT ACTUAL DEALERSHIP ACCOUNTING DATA",
+    "assumptions": {
+        "acquisition_cost_pct": 0.82,
+        "discount_pct": 0.04,
+        "reconditioning_cost": 15000.0,
+        "transportation_cost": 5000.0,
+        "other_selling_costs": 8000.0
+    },
+    "portfolio_totals": {
+        "total_scenario_revenue_inr": 3439312050.24,
+        "total_scenario_acquisition_cost_inr": 2937745709.58,
+        "total_scenario_gross_profit_inr": 501566340.65999997,
+        "total_scenario_net_contribution_inr": 307638340.66,
+        "portfolio_gross_margin_pct": 14.58,
+        "portfolio_net_contribution_margin_pct": 8.94,
+        "avg_gross_profit_per_unit_inr": 72417.89,
+        "avg_net_contribution_per_unit_inr": 44417.89
+    },
+    "brand_summary": [
+        {
+            "Vehicle_Brand": "Maruti",
+            "listing_count": 2165,
+            "total_scenario_revenue": 806048465.28,
+            "total_scenario_gross_profit": 117548734.52000001,
+            "total_scenario_net_contribution": 56928734.52000001,
+            "avg_gross_profit_per_unit": 54295.027491916866,
+            "avg_net_contribution_per_unit": 26295.027491916862,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 7.06269374264294
+        },
+        {
+            "Vehicle_Brand": "Hyundai",
+            "listing_count": 1267,
+            "total_scenario_revenue": 548623134.72,
+            "total_scenario_gross_profit": 80007540.48,
+            "total_scenario_net_contribution": 44531540.480000004,
+            "avg_gross_profit_per_unit": 63147.23005524862,
+            "avg_net_contribution_per_unit": 35147.23005524862,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 8.11696366080652
+        },
+        {
+            "Vehicle_Brand": "Mahindra",
+            "listing_count": 723,
+            "total_scenario_revenue": 427934374.08,
+            "total_scenario_gross_profit": 62407096.220000006,
+            "total_scenario_net_contribution": 42163096.220000006,
+            "avg_gross_profit_per_unit": 86316.86890733057,
+            "avg_net_contribution_per_unit": 58316.86890733057,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 9.852701435972481
+        },
+        {
+            "Vehicle_Brand": "Toyota",
+            "listing_count": 357,
+            "total_scenario_revenue": 304846058.88,
+            "total_scenario_gross_profit": 44456716.92,
+            "total_scenario_net_contribution": 34460716.92,
+            "avg_gross_profit_per_unit": 124528.61882352941,
+            "avg_net_contribution_per_unit": 96528.61882352941,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 11.304301274750992
+        },
+        {
+            "Vehicle_Brand": "Tata",
+            "listing_count": 647,
+            "total_scenario_revenue": 213909987.84,
+            "total_scenario_gross_profit": 31195206.560000002,
+            "total_scenario_net_contribution": 13079206.560000002,
+            "avg_gross_profit_per_unit": 48215.156970633696,
+            "avg_net_contribution_per_unit": 20215.156970633696,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 6.114350569634441
+        },
+        {
+            "Vehicle_Brand": "Honda",
+            "listing_count": 362,
+            "total_scenario_revenue": 199324929.6,
+            "total_scenario_gross_profit": 29068218.900000002,
+            "total_scenario_net_contribution": 18932218.900000002,
+            "avg_gross_profit_per_unit": 80298.94723756907,
+            "avg_net_contribution_per_unit": 52298.94723756907,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 9.49816911411567
+        },
+        {
+            "Vehicle_Brand": "Ford",
+            "listing_count": 361,
+            "total_scenario_revenue": 174796786.56,
+            "total_scenario_gross_profit": 25491198.040000003,
+            "total_scenario_net_contribution": 15383198.040000003,
+            "avg_gross_profit_per_unit": 70612.7369529086,
+            "avg_net_contribution_per_unit": 42612.73695290859,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 8.80061833100097
+        },
+        {
+            "Vehicle_Brand": "Bmw",
+            "listing_count": 47,
+            "total_scenario_revenue": 125011200.0,
+            "total_scenario_gross_profit": 18230800.0,
+            "total_scenario_net_contribution": 16914800.0,
+            "avg_gross_profit_per_unit": 387889.3617021277,
+            "avg_net_contribution_per_unit": 359889.3617021277,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 13.530627655762043
+        },
+        {
+            "Vehicle_Brand": "Mercedes-Benz",
+            "listing_count": 46,
+            "total_scenario_revenue": 99507840.0,
+            "total_scenario_gross_profit": 14511560.0,
+            "total_scenario_net_contribution": 13223560.0,
+            "avg_gross_profit_per_unit": 315468.6956521739,
+            "avg_net_contribution_per_unit": 287468.6956521739,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 13.28896296010445
+        },
+        {
+            "Vehicle_Brand": "Renault",
+            "listing_count": 206,
+            "total_scenario_revenue": 88931512.32,
+            "total_scenario_gross_profit": 12969178.88,
+            "total_scenario_net_contribution": 7201178.880000002,
+            "avg_gross_profit_per_unit": 62957.179029126215,
+            "avg_net_contribution_per_unit": 34957.17902912622,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 8.097443405761709
+        },
+        {
+            "Vehicle_Brand": "Volkswagen",
+            "listing_count": 174,
+            "total_scenario_revenue": 81778557.12,
+            "total_scenario_gross_profit": 11926039.58,
+            "total_scenario_net_contribution": 7054039.580000001,
+            "avg_gross_profit_per_unit": 68540.45735632184,
+            "avg_net_contribution_per_unit": 40540.457356321844,
+            "scenario_gross_margin_pct": 14.583333333333332,
+            "scenario_net_margin_pct": 8.62578141315096
+        },
+        {
+            "Vehicle_Brand": "Audi",
+            "listing_count": 33,
+            "total_scenario_revenue": 76740477.12,
+            "total_scenario_gross_profit": 11191319.58,
+            "total_scenario_net_contribution": 10267319.58,
+            "avg_gross_profit_per_unit": 339130.89636363636,
+            "avg_net_contribution_per_unit": 311130.89636363636,
+            "scenario_gross_margin_pct": 14.583333333333332,
+            "scenario_net_margin_pct": 13.379275143083708
+        },
+        {
+            "Vehicle_Brand": "Chevrolet",
+            "listing_count": 216,
+            "total_scenario_revenue": 55644979.2,
+            "total_scenario_gross_profit": 8114892.800000001,
+            "total_scenario_net_contribution": 2066892.800000001,
+            "avg_gross_profit_per_unit": 37568.94814814815,
+            "avg_net_contribution_per_unit": 9568.948148148153,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 3.7144282012778627
+        },
+        {
+            "Vehicle_Brand": "Skoda",
+            "listing_count": 70,
+            "total_scenario_revenue": 39744957.12,
+            "total_scenario_gross_profit": 5796139.58,
+            "total_scenario_net_contribution": 3836139.5800000005,
+            "avg_gross_profit_per_unit": 82801.994,
+            "avg_net_contribution_per_unit": 54801.994000000006,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 9.651890096189392
+        },
+        {
+            "Vehicle_Brand": "Jeep",
+            "listing_count": 22,
+            "total_scenario_revenue": 37788479.04,
+            "total_scenario_gross_profit": 5510819.86,
+            "total_scenario_net_contribution": 4894819.86,
+            "avg_gross_profit_per_unit": 250491.81181818183,
+            "avg_net_contribution_per_unit": 222491.81181818183,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 12.953206861855218
+        }
+    ],
+    "category_summary": [
+        {
+            "Price_Category": "Budget (< \u20b93L)",
+            "unit_count": 2248,
+            "total_scenario_revenue": 391237352.64,
+            "total_scenario_gross_profit": 57055447.260000005,
+            "total_scenario_net_contribution": -5888552.7399999965,
+            "avg_gross_profit_per_unit": 25380.53703736655,
+            "avg_net_contribution_per_unit": -2619.4629626334504,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": -1.50511005666128
+        },
+        {
+            "Price_Category": "Mid-Range (\u20b93L - \u20b96L)",
+            "unit_count": 2637,
+            "total_scenario_revenue": 1082002419.84,
+            "total_scenario_gross_profit": 157792019.56,
+            "total_scenario_net_contribution": 83956019.56,
+            "avg_gross_profit_per_unit": 59837.701767159655,
+            "avg_net_contribution_per_unit": 31837.70176715965,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 7.759319020045714
+        },
+        {
+            "Price_Category": "Upper Mid-Range (\u20b96L - \u20b910L)",
+            "unit_count": 1525,
+            "total_scenario_revenue": 1078146208.32,
+            "total_scenario_gross_profit": 157229655.38000003,
+            "total_scenario_net_contribution": 114529655.38000003,
+            "avg_gross_profit_per_unit": 103101.41336393444,
+            "avg_net_contribution_per_unit": 75101.41336393444,
+            "scenario_gross_margin_pct": 14.583333333333337,
+            "scenario_net_margin_pct": 10.622831532141044
+        },
+        {
+            "Price_Category": "Premium (\u20b910L - \u20b920L)",
+            "unit_count": 396,
+            "total_scenario_revenue": 504094069.44,
+            "total_scenario_gross_profit": 73513718.46000001,
+            "total_scenario_net_contribution": 62425718.46000001,
+            "avg_gross_profit_per_unit": 185640.70318181821,
+            "avg_net_contribution_per_unit": 157640.70318181821,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 12.383743877278496
+        },
+        {
+            "Price_Category": "Luxury (> \u20b920L)",
+            "unit_count": 120,
+            "total_scenario_revenue": 383832000.0,
+            "total_scenario_gross_profit": 55975500.0,
+            "total_scenario_net_contribution": 52615500.0,
+            "avg_gross_profit_per_unit": 466462.5,
+            "avg_net_contribution_per_unit": 438462.5,
+            "scenario_gross_margin_pct": 14.583333333333334,
+            "scenario_net_margin_pct": 13.70795035327956
+        }
+    ],
+    "sensitivity_matrix": [
+        {
+            "Acquisition_Cost_Pct": "78%",
+            "Discount_Pct": "2%",
+            "Portfolio_Scenario_Revenue_Cr": 351.1,
+            "Portfolio_Scenario_Gross_Profit_Cr": 71.65,
+            "Portfolio_Scenario_Gross_Margin_Pct": 20.41
+        },
+        {
+            "Acquisition_Cost_Pct": "78%",
+            "Discount_Pct": "4%",
+            "Portfolio_Scenario_Revenue_Cr": 343.93,
+            "Portfolio_Scenario_Gross_Profit_Cr": 64.49,
+            "Portfolio_Scenario_Gross_Margin_Pct": 18.75
+        },
+        {
+            "Acquisition_Cost_Pct": "78%",
+            "Discount_Pct": "6%",
+            "Portfolio_Scenario_Revenue_Cr": 336.77,
+            "Portfolio_Scenario_Gross_Profit_Cr": 57.32,
+            "Portfolio_Scenario_Gross_Margin_Pct": 17.02
+        },
+        {
+            "Acquisition_Cost_Pct": "78%",
+            "Discount_Pct": "8%",
+            "Portfolio_Scenario_Revenue_Cr": 329.6,
+            "Portfolio_Scenario_Gross_Profit_Cr": 50.16,
+            "Portfolio_Scenario_Gross_Margin_Pct": 15.22
+        },
+        {
+            "Acquisition_Cost_Pct": "80%",
+            "Discount_Pct": "2%",
+            "Portfolio_Scenario_Revenue_Cr": 351.1,
+            "Portfolio_Scenario_Gross_Profit_Cr": 64.49,
+            "Portfolio_Scenario_Gross_Margin_Pct": 18.37
+        },
+        {
+            "Acquisition_Cost_Pct": "80%",
+            "Discount_Pct": "4%",
+            "Portfolio_Scenario_Revenue_Cr": 343.93,
+            "Portfolio_Scenario_Gross_Profit_Cr": 57.32,
+            "Portfolio_Scenario_Gross_Margin_Pct": 16.67
+        },
+        {
+            "Acquisition_Cost_Pct": "80%",
+            "Discount_Pct": "6%",
+            "Portfolio_Scenario_Revenue_Cr": 336.77,
+            "Portfolio_Scenario_Gross_Profit_Cr": 50.16,
+            "Portfolio_Scenario_Gross_Margin_Pct": 14.89
+        },
+        {
+            "Acquisition_Cost_Pct": "80%",
+            "Discount_Pct": "8%",
+            "Portfolio_Scenario_Revenue_Cr": 329.6,
+            "Portfolio_Scenario_Gross_Profit_Cr": 42.99,
+            "Portfolio_Scenario_Gross_Margin_Pct": 13.04
+        },
+        {
+            "Acquisition_Cost_Pct": "82%",
+            "Discount_Pct": "2%",
+            "Portfolio_Scenario_Revenue_Cr": 351.1,
+            "Portfolio_Scenario_Gross_Profit_Cr": 57.32,
+            "Portfolio_Scenario_Gross_Margin_Pct": 16.33
+        },
+        {
+            "Acquisition_Cost_Pct": "82%",
+            "Discount_Pct": "4%",
+            "Portfolio_Scenario_Revenue_Cr": 343.93,
+            "Portfolio_Scenario_Gross_Profit_Cr": 50.16,
+            "Portfolio_Scenario_Gross_Margin_Pct": 14.58
+        },
+        {
+            "Acquisition_Cost_Pct": "82%",
+            "Discount_Pct": "6%",
+            "Portfolio_Scenario_Revenue_Cr": 336.77,
+            "Portfolio_Scenario_Gross_Profit_Cr": 42.99,
+            "Portfolio_Scenario_Gross_Margin_Pct": 12.77
+        },
+        {
+            "Acquisition_Cost_Pct": "82%",
+            "Discount_Pct": "8%",
+            "Portfolio_Scenario_Revenue_Cr": 329.6,
+            "Portfolio_Scenario_Gross_Profit_Cr": 35.83,
+            "Portfolio_Scenario_Gross_Margin_Pct": 10.87
+        },
+        {
+            "Acquisition_Cost_Pct": "84%",
+            "Discount_Pct": "2%",
+            "Portfolio_Scenario_Revenue_Cr": 351.1,
+            "Portfolio_Scenario_Gross_Profit_Cr": 50.16,
+            "Portfolio_Scenario_Gross_Margin_Pct": 14.29
+        },
+        {
+            "Acquisition_Cost_Pct": "84%",
+            "Discount_Pct": "4%",
+            "Portfolio_Scenario_Revenue_Cr": 343.93,
+            "Portfolio_Scenario_Gross_Profit_Cr": 42.99,
+            "Portfolio_Scenario_Gross_Margin_Pct": 12.5
+        },
+        {
+            "Acquisition_Cost_Pct": "84%",
+            "Discount_Pct": "6%",
+            "Portfolio_Scenario_Revenue_Cr": 336.77,
+            "Portfolio_Scenario_Gross_Profit_Cr": 35.83,
+            "Portfolio_Scenario_Gross_Margin_Pct": 10.64
+        },
+        {
+            "Acquisition_Cost_Pct": "84%",
+            "Discount_Pct": "8%",
+            "Portfolio_Scenario_Revenue_Cr": 329.6,
+            "Portfolio_Scenario_Gross_Profit_Cr": 28.66,
+            "Portfolio_Scenario_Gross_Margin_Pct": 8.7
+        },
+        {
+            "Acquisition_Cost_Pct": "86%",
+            "Discount_Pct": "2%",
+            "Portfolio_Scenario_Revenue_Cr": 351.1,
+            "Portfolio_Scenario_Gross_Profit_Cr": 42.99,
+            "Portfolio_Scenario_Gross_Margin_Pct": 12.24
+        },
+        {
+            "Acquisition_Cost_Pct": "86%",
+            "Discount_Pct": "4%",
+            "Portfolio_Scenario_Revenue_Cr": 343.93,
+            "Portfolio_Scenario_Gross_Profit_Cr": 35.83,
+            "Portfolio_Scenario_Gross_Margin_Pct": 10.42
+        },
+        {
+            "Acquisition_Cost_Pct": "86%",
+            "Discount_Pct": "6%",
+            "Portfolio_Scenario_Revenue_Cr": 336.77,
+            "Portfolio_Scenario_Gross_Profit_Cr": 28.66,
+            "Portfolio_Scenario_Gross_Margin_Pct": 8.51
+        },
+        {
+            "Acquisition_Cost_Pct": "86%",
+            "Discount_Pct": "8%",
+            "Portfolio_Scenario_Revenue_Cr": 329.6,
+            "Portfolio_Scenario_Gross_Profit_Cr": 21.5,
+            "Portfolio_Scenario_Gross_Margin_Pct": 6.52
+        }
+    ],
+    "chart_path": "C:\\Users\\Tanvi Singhal\\.gemini\\antigravity\\scratch\\automotive-dealership-profitability-analysis\\outputs\\charts\\scenario_profitability_analysis.png"
+}
