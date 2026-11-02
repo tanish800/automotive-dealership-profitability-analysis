@@ -1,48 +1,59 @@
-# Python Environment & Cache
+# Antigravity and Gemini
+.gemini/
+.antigravity/
+.agents/
+
+# Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-env/
-venv/
-ENV/
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-
-# Testing & Linting
+*.pyo
 .pytest_cache/
-.coverage
-htmlcov/
-.tox/
-.nox/
+.mypy_cache/
+.ruff_cache/
 
-# Jupyter Notebook
-.ipynb_checkpoints
-*/.ipynb_checkpoints/*
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
 
-# IDEs & System Files
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+credentials.json
+service-account*.json
+*.pem
+*.key
+
+# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
-*~
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node dependencies
+node_modules/
+
+# Cloud-generated local metadata
+.vercel/
+.netlify/
+.terraform/
+.firebase/
+
+# OS files
 .DS_Store
 Thumbs.db
+desktop.ini
 
-# Large Cache & Temporary Logs
+# Logs
 *.log
-.cache/
+*.tmp
+*.bak
+
+# Build files
+build/
+dist/
+*.egg-info/
